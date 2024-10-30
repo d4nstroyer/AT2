@@ -31,7 +31,7 @@ actor_dict = {
     "Elizabeth Olsen": "February 16, 1989", 
     "Benedict Cumberbatch": "July 19, 1976", 
     "Brie Larson": "October 1, 1989", 
-    "Jamie Lannister": "October 20, 1990"
+    "Jamie Lonnister": "October 20, 1990"
 }
 
 movie_dict = {
