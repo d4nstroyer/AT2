@@ -36,12 +36,12 @@ class TestDictFunctions(unittest.TestCase):
     def test_search_in_dict_found(self):
         test_dict = {"David Beckham": 1975, "Christiano Ronaldo": 1985} #David Beckham is in the dictionary
         result = search_in_dict(test_dict, "David Beckham") #input David Beckham
-        self.assertEqual(result, {'David Beckham': 1975, 'Christiano Ronaldo': 1985}) #David Beckham appears on the result
+        self.assertEqual(result, 'David Beckham, 1975') #David Beckham appears on the result
         
     def test_search_in_dict_not_found(self):
         test_dict = {"David Beckham": 1975, "Christiano Ronaldo": 1985} #Lionel Messi is not in dictionary
         result = search_in_dict(test_dict, "Lionel Messi") #input Lionel Messi
-        self.assertEqual(result, {"David Beckham": 1975, "Christiano Ronaldo": 1985}) #Lionel Messi will not appear on the result
+        self.assertEqual(result, 'Not found') #Not found will be returned
 
 if __name__ == '__main__':
     unittest.main()

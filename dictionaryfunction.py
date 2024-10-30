@@ -87,10 +87,9 @@ def sort_dict(category_dict):
 # Function to search entry
 def search_in_dict(category_dict, name):
     if name in category_dict:
-        print(f"{name}: {category_dict[name]} is found in the dictionary.")
+        return f"{name}, {category_dict[name]}"
     else:
-        print(f"{name} not found in the dictionary.")
-    return category_dict
+        return "Not found"
 
 # Main loop
 def play():
