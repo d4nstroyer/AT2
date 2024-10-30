@@ -31,7 +31,8 @@ actor_dict = {
     "Elizabeth Olsen": "February 16, 1989", 
     "Benedict Cumberbatch": "July 19, 1976", 
     "Brie Larson": "October 1, 1989", 
-    "Jamie Lonnister": "October 20, 1990"
+    "Jamie Lonnister": "October 20, 1990",
+    "Son Goku": "October 12, 737"
 }
 
 movie_dict = {
@@ -46,8 +47,7 @@ movie_dict = {
     "Guardians of the Galaxy": 2014,
     "Avengers: Endgame": 2019, 
     "Avengers: Infinity War": 2018, 
-    "Captain Marvel": 2019, 
-    "Son Goku": 2019
+    "Captain Marvel": 2019
 }
 
 game_dict = {
