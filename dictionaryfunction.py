@@ -87,7 +87,7 @@ def sort_dict(category_dict):
 # Function to search entry
 def search_in_dict(category_dict, name):
     if name in category_dict:
-        return f"{name}: {category_dict[name]}"
+        return f"{name}, {category_dict[name]}"
     else:
         return "Not found"
 
