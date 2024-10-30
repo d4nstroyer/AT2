@@ -62,7 +62,8 @@ game_dict = {
     "Cyberpunk 2077": 2020, 
     "Hades": 2020, 
     "Sekiro: Shadows Die Twice": 2019, 
-    "Hollow Knight": 2017
+    "Hollow Knight": 2017,
+    "Wukong": 2024
 }
 
 # Function to add entry
