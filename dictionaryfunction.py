@@ -46,7 +46,8 @@ movie_dict = {
     "Guardians of the Galaxy": 2014,
     "Avengers: Endgame": 2019, 
     "Avengers: Infinity War": 2018, 
-    "Captain Marvel": 2019
+    "Captain Marvel": 2019, 
+    "Son Goku": 2019
 }
 
 game_dict = {
