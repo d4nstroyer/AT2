@@ -63,7 +63,7 @@ game_dict = {
     "Hades": 2020, 
     "Sekiro: Shadows Die Twice": 2019, 
     "Hollow Knight": 2017,
-    "Wukong": 2024
+    "Wukong": 2024,
     "Gunbound": 2000
 }
 
